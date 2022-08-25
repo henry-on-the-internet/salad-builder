@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/salad-builder/static/css/main.073c9b0a.css",
-    "main.js": "/salad-builder/static/js/main.2133de0f.js",
+    "main.js": "/salad-builder/static/js/main.4dbb28ee.js",
     "static/js/787.1666bbc3.chunk.js": "/salad-builder/static/js/787.1666bbc3.chunk.js",
     "static/media/logo.svg": "/salad-builder/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/salad-builder/index.html",
     "main.073c9b0a.css.map": "/salad-builder/static/css/main.073c9b0a.css.map",
-    "main.2133de0f.js.map": "/salad-builder/static/js/main.2133de0f.js.map",
+    "main.4dbb28ee.js.map": "/salad-builder/static/js/main.4dbb28ee.js.map",
     "787.1666bbc3.chunk.js.map": "/salad-builder/static/js/787.1666bbc3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2133de0f.js"
+    "static/js/main.4dbb28ee.js"
   ]
 }
